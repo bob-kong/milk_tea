@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milk_tea/static/css/main.f1bda714.css",
+    "main.js": "/milk_tea/static/js/main.d1b8c141.js",
+    "index.html": "/milk_tea/index.html",
+    "main.f1bda714.css.map": "/milk_tea/static/css/main.f1bda714.css.map",
+    "main.d1b8c141.js.map": "/milk_tea/static/js/main.d1b8c141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1bda714.css",
+    "static/js/main.d1b8c141.js"
+  ]
+}
